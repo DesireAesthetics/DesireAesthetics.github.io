@@ -2883,6 +2883,19 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(254, 241, 239, 0.5);
 }
 
+.btn-outline-light2 {
+  color: #F9A392;
+  border-color: #F9A392;
+}
+
+.btn-outline-light2:hover {
+  color: #212529;
+  background-color: #FEF1EF;
+  border-color: #FEF1EF;
+}
+
+
+
 .btn-outline-dark {
   color: #211E1C;
   border-color: #211E1C;
